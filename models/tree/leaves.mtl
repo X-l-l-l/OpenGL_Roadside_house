@@ -1,0 +1,24 @@
+# Blender 3.4.0 MTL File: 'grass.blend'
+# www.blender.org
+
+newmtl 15_-_Default
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd oakbranchcolor.png
+map_Ns oakbranchRoughness.png
+map_Bump -bm 1.000000 oakbranchNormal.png
+
+newmtl leaf1
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd oakbranchcolor.png
+map_Ns oakbranchRoughness.png
+map_d oakbranchcolor.png
+map_Bump -bm 1.000000 oakbranchNormal.png

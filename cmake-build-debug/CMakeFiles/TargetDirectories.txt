@@ -1,0 +1,3 @@
+C:/Users/rares/OneDrive/Documents/Facultate/PG/PGPrj/cmake-build-debug/CMakeFiles/PGPrj.dir
+C:/Users/rares/OneDrive/Documents/Facultate/PG/PGPrj/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rares/OneDrive/Documents/Facultate/PG/PGPrj/cmake-build-debug/CMakeFiles/rebuild_cache.dir

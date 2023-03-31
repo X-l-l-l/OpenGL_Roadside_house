@@ -1,0 +1,23 @@
+# Blender 3.4.0 MTL File: 'grass.blend'
+# www.blender.org
+
+newmtl 14_-_Bark
+Ns 196.983078
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd tree_bark_diffuse.tga.png
+map_Ks tree_bark_spec.tga.png
+map_Bump -bm 1.000000 tree_bark_normal.tga.png
+
+newmtl bark1
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd bark1.png
+map_Ns bark1Roughness.png

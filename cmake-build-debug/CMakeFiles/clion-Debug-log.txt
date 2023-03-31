@@ -1,0 +1,4 @@
+C:\Users\rares\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8214.51\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/rares/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8214.51/bin/ninja/win/ninja.exe -G Ninja -S C:\Users\rares\OneDrive\Documents\Facultate\PG\PGPrj -B C:\Users\rares\OneDrive\Documents\Facultate\PG\PGPrj\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/rares/OneDrive/Documents/Facultate/PG/PGPrj/cmake-build-debug

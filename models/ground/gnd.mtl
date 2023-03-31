@@ -1,0 +1,65 @@
+# Blender 3.4.0 MTL File: 'grass.blend'
+# www.blender.org
+
+newmtl M_SimpleTunnel
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd T_SimpleTunnel_COL.png
+map_Ns T_SimpleTunnel_RGH.png
+
+newmtl Material.004
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd coast_sand_rocks_02_diff_1k.jpg
+map_Ns coast_sand_rocks_02_rough_1k.jpg
+map_Bump -bm 1.000000 coast_sand_rocks_02_nor_gl_1k.jpg
+
+newmtl Material.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd RoadDiffuse.jpg
+map_Bump -bm 1.000000 RoadDiffuse_NORM.png
+
+newmtl Material.007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd black.jpg
+
+newmtl Material.008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd black.jpg
+
+newmtl Material.009
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd rock_boulder_dry_diff_1k.jpg
+map_Ns rock_boulder_dry_rough_1k.jpg
+map_Bump -bm 1.000000 rock_boulder_dry_nor_gl_1k.jpg

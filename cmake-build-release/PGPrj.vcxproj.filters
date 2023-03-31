@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\rares\OneDrive\Documents\Facultate\PG\PGPrj\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rares\OneDrive\Documents\Facultate\PG\PGPrj\Mesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rares\OneDrive\Documents\Facultate\PG\PGPrj\Model3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rares\OneDrive\Documents\Facultate\PG\PGPrj\Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rares\OneDrive\Documents\Facultate\PG\PGPrj\SkyBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rares\OneDrive\Documents\Facultate\PG\PGPrj\Window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rares\OneDrive\Documents\Facultate\PG\PGPrj\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rares\OneDrive\Documents\Facultate\PG\PGPrj\stb_image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rares\OneDrive\Documents\Facultate\PG\PGPrj\tiny_obj_loader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\rares\OneDrive\Documents\Facultate\PG\PGPrj\Camera.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rares\OneDrive\Documents\Facultate\PG\PGPrj\Mesh.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rares\OneDrive\Documents\Facultate\PG\PGPrj\Model3D.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rares\OneDrive\Documents\Facultate\PG\PGPrj\Shader.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rares\OneDrive\Documents\Facultate\PG\PGPrj\SkyBox.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rares\OneDrive\Documents\Facultate\PG\PGPrj\Window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rares\OneDrive\Documents\Facultate\PG\PGPrj\stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rares\OneDrive\Documents\Facultate\PG\PGPrj\tiny_obj_loader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\rares\OneDrive\Documents\Facultate\PG\PGPrj\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{120D10BF-48BC-3672-B454-1F5FE2321B07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9A97BEA3-994C-3AB1-A020-6530E95C4415}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

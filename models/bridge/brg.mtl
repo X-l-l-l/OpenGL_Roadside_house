@@ -1,0 +1,68 @@
+# Blender 3.4.0 MTL File: 'grass.blend'
+# www.blender.org
+
+newmtl Cardboard_Box_Mat
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Cardboard_boxes_1_BaseColor.png
+map_Ns Cardboard_boxes_1_Roughness.png
+map_Bump -bm 1.000000 Cardboard_boxes_1_Normal.png
+
+newmtl Material.010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ui1maewga_2K_Albedo.jpg
+map_Ns ui1maewga_2K_Roughness.jpg
+map_Bump -bm 1.000000 ui1maewga_2K_Normal_LOD0.jpg
+
+newmtl Wooden_bridge
+Ns 250.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Wooden_bridge_diffuse.jpg
+
+newmtl lambert1
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd House4_lambert1_AlbedoTransparency.png
+map_refl House4_lambert1_MetallicSmoothness.png
+map_Bump -bm 1.000000 House4_lambert1_Normal.png
+
+newmtl lambert1.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd StreetLight_map1_color.png
+map_Ns StreetLight_map1_rough.png
+
+newmtl mirrorB_Mat
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd mirrorB_mirrorB_Mat_BaseColor.1001.png
+map_Ns mirrorB_mirrorB_Mat_Roughness.1001.png
+map_refl mirrorB_mirrorB_Mat_Metalness.1001.png
+map_Bump -bm 1.000000 mirrorB_mirrorB_Mat_Normal.1001.png
